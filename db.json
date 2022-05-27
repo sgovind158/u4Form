@@ -1,0 +1,14 @@
+{
+  "forms": [
+    {
+      "username": "a",
+      "salary": 333,
+      "id": 32
+    },
+    {
+      "username": "av",
+      "salary": null,
+      "id": 33
+    }
+  ]
+}
